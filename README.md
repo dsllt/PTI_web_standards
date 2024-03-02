@@ -10,6 +10,10 @@ O projeto implementa o solicitado na Produção Textual Individual (PTI):
 - Devem ser utilizados HTML, CSS e flexbox para contemplar a tarefa.
 
 
+Visite o site em: <br>
+https://pti-web-standards.onrender.com/
+
+
 ## Estrutura de Pasta
 
 📦 root<br>
